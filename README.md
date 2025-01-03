@@ -1,2 +1,2 @@
 # RestAutomated
-Test automation framework using for Rest API using Java with RestAssured
+Test automation framework for Rest API using Java with RestAssured.
